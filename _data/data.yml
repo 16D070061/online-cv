@@ -9,18 +9,18 @@ sidebar:
     # Profile information
     name: Chandan Kumar
     tagline: Electrical Engineer
-    avatar: Profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #Profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ck2651999@gmail.com
     phone: 8104375397
     website: #blog.webjeda.com #do not add http://
-    linkedin: chandan-kumar-563744186
+    linkedin: #chandan-kumar-563744186
     github: 16D070061
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@ck2651999'
+    twitter:# '@ck2651999'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
